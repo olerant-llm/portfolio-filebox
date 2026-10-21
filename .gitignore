@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+FTP/data/*
+!FTP/data/.htaccess
+FTP/uploads/*
+!FTP/uploads/.htaccess
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+

@@ -1,0 +1,3 @@
+FILEBOX_ADMIN_PASSWORD=<set-your-own-password-at-least-12-characters>
+FILEBOX_BASE_URL=https://example.invalid/filebox
+
